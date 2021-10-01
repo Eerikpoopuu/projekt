@@ -1,19 +1,57 @@
 # G6
-Hinnavõrdlus projekt
+
+Hinnajälgija
+
 ## Eesmärk
-Teha inimeste elu mugavamaks sellega, et inimene ei pea igapäev arvutitarga lk peal käima vaatamas, kas hind on langenud,
-vaid saab meili peale teade, kui hind on odavamaks läinud.
+
+Teha inimeste elu mugavamaks sellega, et inimene ei pea igapäev arvutitaga käima vaatamas, kas hind on langenud,
+vaid saab meili peale teade, kui hind on soovitud hinnale langenud.
+
 ### To-do list
-- teha lehekülg kus on näha graafikakaardid ja nende hinnad
-- otsingumootor mille abil leida endale sobiv graafikakaart
-- teha bot, mis skännib arvutitarga lk ja graafikakaardite hindu
-- teavitada endale sobivast hinnamuutusest emailile
+
+- Teha bot, mis skännib graafikakaardi hinda
+- Teavitada endale sobivast hinnamuutusest emailile
+- Valmistada kasutajaliides
+- 
 #### Lingid
-#### meeskonna liikmed ja nende ül
+
+Figma: 
+
+#### Meeskonna liikmed ja nende ül
+
+
 - Gerli Kask
+      Üks pehme oskus, mida õppisin ja endas arendasin
+      Üks tehniline oskus, mida õppisin ja endas arendasin
+      Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+      
 - Eerik Poopuu
+      Üks pehme oskus, mida õppisin ja endas arendasin
+      Üks tehniline oskus, mida õppisin ja endas arendasin
+      Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+      
 - Sander Vilter
+      Üks pehme oskus, mida õppisin ja endas arendasin
+      Üks tehniline oskus, mida õppisin ja endas arendasin
+      Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+      
 - Liisa Tiisväli
+      Üks pehme oskus, mida õppisin ja endas arendasin
+      Üks tehniline oskus, mida õppisin ja endas arendasin
+      Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+      
 - Jana Kindlam
-- Kevin Rull
+      Üks pehme oskus, mida õppisin ja endas arendasin
+      Üks tehniline oskus, mida õppisin ja endas arendasin
+      Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+      
 - Markus Rätsep
+      Üks pehme oskus, mida õppisin ja endas arendasin
+      Üks tehniline oskus, mida õppisin ja endas arendasin
+      Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+      
+- Kevin Rull
+
+
+
+
