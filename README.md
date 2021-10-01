@@ -46,9 +46,9 @@ Figma:
     -  Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonns: esimeseks projektiks on OK.
       
 - Markus Rätsep
-    -  Üks pehme oskus, mida õppisin ja endas arendasin
-    -  Üks tehniline oskus, mida õppisin ja endas arendasin
-    -  Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+    -  Üks pehme oskus, mida õppisin ja endas arendasin: Mitte midagi
+    -  Üks tehniline oskus, mida õppisin ja endas arendasin: htmli-st input väljade info saatmine pythoni vahel.
+    -  Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas: Ei oska öelda. Terve projekt oleks võinud olla paremini läbimõeldud. Liiga raske esimestele kursustele kes ei ole githubi kasutajaidki teinud ja kordagi ubuntut avanud.
       
 - Kevin Rull
 
