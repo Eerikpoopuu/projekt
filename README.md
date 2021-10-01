@@ -17,6 +17,7 @@ vaid saab meili peale teade, kui hind on soovitud hinnale langenud.
 #### Lingid
 
 Figma: 
+<a href="https://www.figma.com/file/8WvCoPgAxBblugCrT8ofdY/Spingo-Login-Signup-UI-Patterns-Community">Figma</a>
 
 #### Meeskonna liikmed ja nende ül
 
