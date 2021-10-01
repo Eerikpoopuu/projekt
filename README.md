@@ -1,15 +1,15 @@
 # G6
-Hinnavõrdlus projekt
+Hinnavõrdluse projekt
 ## Eesmärk
-Teha inimeste elu mugavamaks sellega, et inimene ei pea igapäev arvutitarga lk peal käima vaatamas, kas hind on langenud,
-vaid saab meili peale teade, kui hind on odavamaks läinud.
+Teha kasutaja elu mugavamaks sellega, et ta ei peaks iga päev käima veebilehel (näiteks klick.ee) otsimas, kas toote hind on langenud soovitud tasemele;
+selle asemel saab ta enda poolt määratud meiliaadressile teate, kui vastav muutus on toimunud.
 ### To-do list
-- teha lehekülg kus on näha graafikakaardid ja nende hinnad
-- otsingumootor mille abil leida endale sobiv graafikakaart
-- teha bot, mis skännib arvutitarga lk ja graafikakaardite hindu
-- teavitada endale sobivast hinnamuutusest emailile
+- teha nn webcrawler, mis näitab kasutajale otsitava graafikakaardi ja selle hinna
+- otsingumootor, mille abil leida vastav graafikakaart määratud veebilehelt
+- teha bot, mis skännib veebilehte ja jälgib graafikakaartide hindade muutumist
+- kasutajale saadetakse sobivast hinnamuutusest teade kasutaja poolt määratud meiliaadressile
 #### Lingid
-#### meeskonna liikmed ja nende ül
+#### Meeskonnaliikmed ja nende ülesanded
 - Gerli Kask
 - Eerik Poopuu
 - Sander Vilter
