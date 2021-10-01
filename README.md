@@ -12,7 +12,7 @@ vaid saab meili peale teade, kui hind on soovitud hinnale langenud.
 - Teha bot, mis skännib graafikakaardi hinda
 - Teavitada endale sobivast hinnamuutusest emailile
 - Valmistada kasutajaliides
-- 
+
 #### Lingid
 
 Figma: 
