@@ -1,25 +1,24 @@
-# G6
+# Hinnajälgija
 
-Hinnajälgija
 
 ## Eesmärk
 
 Teha inimeste elu mugavamaks sellega, et inimene ei pea igapäev arvutitaga käima vaatamas, kas hind on langenud,
 vaid saab meili peale teade, kui hind on soovitud hinnale langenud.
 
-### To-do list
+## To-do list
 
 - Teha bot, mis skännib graafikakaardi hinda
 - Teavitada endale sobivast hinnamuutusest emailile
 - Valmistada kasutajaliides
 - Automatiseerida skript
 
-#### Lingid
+### Lingid
 
 
 <a href="https://www.figma.com/file/8WvCoPgAxBblugCrT8ofdY/Spingo-Login-Signup-UI-Patterns-Community">Figma</a>
 
-#### Meeskonna liikmed ja nende ül
+### Meeskond
 
 
 - Gerli Kask
