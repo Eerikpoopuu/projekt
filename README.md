@@ -21,34 +21,34 @@ Figma:
 
 
 - Gerli Kask
-      Üks pehme oskus, mida õppisin ja endas arendasin
-      Üks tehniline oskus, mida õppisin ja endas arendasin
-      Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+     - Üks pehme oskus, mida õppisin ja endas arendasin
+     - Üks tehniline oskus, mida õppisin ja endas arendasin
+     - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
       
 - Eerik Poopuu
-      Üks pehme oskus, mida õppisin ja endas arendasin
-      Üks tehniline oskus, mida õppisin ja endas arendasin
-      Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+     - Üks pehme oskus, mida õppisin ja endas arendasin
+     - Üks tehniline oskus, mida õppisin ja endas arendasin
+     - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
       
 - Sander Vilter
-      Üks pehme oskus, mida õppisin ja endas arendasin
-      Üks tehniline oskus, mida õppisin ja endas arendasin
-      Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+     - Üks pehme oskus, mida õppisin ja endas arendasin
+     - Üks tehniline oskus, mida õppisin ja endas arendasin
+     - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
       
 - Liisa Tiisväli
-      Üks pehme oskus, mida õppisin ja endas arendasin
-      Üks tehniline oskus, mida õppisin ja endas arendasin
-      Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+     - Üks pehme oskus, mida õppisin ja endas arendasin
+     - Üks tehniline oskus, mida õppisin ja endas arendasin
+    -  Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
       
 - Jana Kindlam
-      Üks pehme oskus, mida õppisin ja endas arendasin
-      Üks tehniline oskus, mida õppisin ja endas arendasin
-      Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+    -  Üks pehme oskus, mida õppisin ja endas arendasin
+    -  Üks tehniline oskus, mida õppisin ja endas arendasin
+    -  Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
       
 - Markus Rätsep
-      Üks pehme oskus, mida õppisin ja endas arendasin
-      Üks tehniline oskus, mida õppisin ja endas arendasin
-      Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+    -  Üks pehme oskus, mida õppisin ja endas arendasin
+    -  Üks tehniline oskus, mida õppisin ja endas arendasin
+    -  Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
       
 - Kevin Rull
 
