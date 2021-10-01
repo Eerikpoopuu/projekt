@@ -13,6 +13,9 @@ vaid saab meili peale teade, kui hind on soovitud hinnale langenud.
 - Valmistada kasutajaliides
 - Automatiseerida skript
 <img src ="https://raw.githubusercontent.com/Eerikpoopuu/projekt/main/20210930_135451.jpg">
+<style>
+     img {height: 400px}
+     </style>
 ### Lingid
 
 
