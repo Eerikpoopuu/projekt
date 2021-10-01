@@ -26,9 +26,9 @@ Figma:
      - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
       
 - Eerik Poopuu
-     - Üks pehme oskus, mida õppisin ja endas arendasin
-     - Üks tehniline oskus, mida õppisin ja endas arendasin
-     - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+     - Üks pehme oskus, mida õppisin ja endas arendasin: teiste mõtetest saan paremini aru ja ideedest
+     - Üks tehniline oskus, mida õppisin ja endas arendasin: Git hub õppisin kasutama ja VS code-ist saan rohkem aru
+     - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas: Oleks rohkem tehnilisi oskusi siis jh
       
 - Sander Vilter
      - Üks pehme oskus, mida õppisin ja endas arendasin
