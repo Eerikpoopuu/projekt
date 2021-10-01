@@ -12,13 +12,15 @@ vaid saab meili peale teade, kui hind on soovitud hinnale langenud.
 - Teavitada endale sobivast hinnamuutusest emailile
 - Valmistada kasutajaliides
 - Automatiseerida skript
-
+<img src ="https://raw.githubusercontent.com/Eerikpoopuu/projekt/main/20210930_135451.jpg">
 ### Lingid
 
 
 <a href="https://www.figma.com/file/8WvCoPgAxBblugCrT8ofdY/Spingo-Login-Signup-UI-Patterns-Community">Figma</a>
 
 ### Meeskond
+
+
 
 
 - Gerli Kask
