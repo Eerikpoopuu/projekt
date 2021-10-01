@@ -36,9 +36,9 @@ Figma:
      - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
       
 - Liisa Tiisväli
-     - Üks pehme oskus, mida õppisin ja endas arendasin
-     - Üks tehniline oskus, mida õppisin ja endas arendasin
-    -  Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+     - Üks pehme oskus, mida õppisin ja endas arendasin: Koostöö 
+     - Üks tehniline oskus, mida õppisin ja endas arendasin: Githubis töötamine ja HTML
+    -  Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas: esimeseks projektiks sobibs html hästi
       
 - Jana Kindlam
     -  Üks pehme oskus, mida õppisin ja endas arendasin: koostöö
