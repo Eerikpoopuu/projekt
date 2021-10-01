@@ -12,6 +12,7 @@ vaid saab meili peale teade, kui hind on soovitud hinnale langenud.
 - Teha bot, mis skännib graafikakaardi hinda
 - Teavitada endale sobivast hinnamuutusest emailile
 - Valmistada kasutajaliides
+- Automatiseerida skript
 
 #### Lingid
 
@@ -21,9 +22,14 @@ Figma:
 
 
 - Gerli Kask
-     - Üks pehme oskus, mida õppisin ja endas arendasin
-     - Üks tehniline oskus, mida õppisin ja endas arendasin
-     - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas
+     - Üks pehme oskus, mida õppisin ja endas arendasin<br>
+       Sain esimest korda kogemust projekti juhina ja tööülesannete jagamisel.
+    
+     - Üks tehniline oskus, mida õppisin ja endas arendasin<br>
+       Oskan nüüd koostada automatiseeritud skripte.
+       
+     - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas<br>
+       See kord jäin oma osaga päris rahule. 
       
 - Eerik Poopuu
      - Üks pehme oskus, mida õppisin ja endas arendasin: teiste mõtetest saan paremini aru ja ideedest
